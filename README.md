@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vraj Raval</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj-raval&label=Profile%20views&color=0e75b6&style=flat" alt="vraj-raval" /> </p>
+<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4MDY1MTBraG84bXIxazc3bGZ4bmFudXM0NTUxcmRobTJjN3VlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp" alt="vraj-raval" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/93474512?v=4" alt="vraj-raval" /></a> </p>
 
