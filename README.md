@@ -1,9 +1,16 @@
+<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/welcome.png?alt=media&token=bd0b06ff-ffa5-487f-85dd-8ae65c733ff5" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 <h1 align="center">Hi 👋, I'm Vraj Raval</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4MDY1MTBraG84bXIxazc3bGZ4bmFudXM0NTUxcmRobTJjN3VlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp" alt="vraj-raval" /> </p>
+<p align="left"> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVvMmU0eDF6YWgyNjdwdHZuZXZyNm1rNGtrMW1lbnpqajJmdzI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.webp"   alt="vraj-raval" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/ryo-ma/github-profile-trophy" alt="vraj-raval" /></a> </p>
+<p align="right"> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4MDY1MTBraG84bXIxazc3bGZ4bmFudXM0NTUxcmRobTJjN3VlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp"  alt="vraj-raval" /> 
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vraj-raval" alt="vraj-raval" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vrajraval_" target="blank"><img src="https://img.shields.io/twitter/follow/vrajraval_?logo=twitter&style=for-the-badge" alt="vrajraval_" /></a> </p>
 
@@ -13,12 +20,14 @@
 
 - 📫 How to reach me **ravalvraj3000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing](https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing)
+- 📄 Check My Resume [https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing](https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vrajraval_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrajraval_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vraj raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj raval" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21225069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21225069" height="30" width="40" /></a>
+<a href="https://instagram.com/vrajrvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrajrvl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj-raval&show_icons=true&locale=en" alt="vraj-raval" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vraj-raval&" alt="vraj-raval" /></p>
+
