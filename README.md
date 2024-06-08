@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4MDY1MTBraG84bXIxazc3bGZ4bmFudXM0NTUxcmRobTJjN3VlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp" alt="vraj-raval" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/93474512?v=4" alt="vraj-raval" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/ryo-ma/github-profile-trophy" alt="vraj-raval" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vrajraval_" target="blank"><img src="https://img.shields.io/twitter/follow/vrajraval_?logo=twitter&style=for-the-badge" alt="vrajraval_" /></a> </p>
 
