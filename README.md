@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVvMmU0eDF6YWgyNjdwdHZuZXZyNm1rNGtrMW1lbnpqajJmdzI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.webp" alt="vraj-raval" /> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVvMmU0eDF6YWgyNjdwdHZuZXZyNm1rNGtrMW1lbnpqajJmdzI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.webp" width=450px alt="vraj-raval" /> 
 </p>
 
 <p align="right"> 
