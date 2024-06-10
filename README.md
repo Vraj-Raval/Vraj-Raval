@@ -1,6 +1,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/welcome.png?alt=media&token=bd0b06ff-ffa5-487f-85dd-8ae65c733ff5" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
 <h1 align="center">Hi 👋, I'm Vraj Raval</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer And UI/UX Designer from India</h3>
 
 <p align="left"> 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVvMmU0eDF6YWgyNjdwdHZuZXZyNm1rNGtrMW1lbnpqajJmdzI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.webp" width=450px alt="vraj-raval" /> 
