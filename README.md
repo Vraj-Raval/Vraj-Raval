@@ -1,42 +1,176 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/welcome.png?alt=media&token=bd0b06ff-ffa5-487f-85dd-8ae65c733ff5" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vraj Raval</h1>
-<h3 align="center">A Passionate Full Stack Developer And UI/UX Designer from India</h3>
+# Hey, I'm Vraj Raval 👋
 
-<p align="left"> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVvMmU0eDF6YWgyNjdwdHZuZXZyNm1rNGtrMW1lbnpqajJmdzI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.webp" width=450px alt="vraj-raval" /> 
+### Full-Stack Developer · UI/UX Designer · Builder
+
+I build **web & mobile experiences** with a strong focus on clean interfaces,
+good UX, and turning ideas into working products.
+
+<p>
+  <a href="https://vrajraval.site">
+    <img src="https://img.shields.io/badge/Portfolio-vrajraval.site-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:ravalvraj3000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ravalvraj3000%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/vrajraval">
+    <img src="https://img.shields.io/badge/LinkedIn-Vraj%20Raval-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<p align="right"> 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4MDY1MTBraG84bXIxazc3bGZ4bmFudXM0NTUxcmRobTJjN3VlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp"  alt="vraj-raval" /> 
+</div>
+
+---
+
+## `whoami`
+
+```txt
+Vraj Raval
+
+→ Full-Stack Developer
+→ UI/UX Designer
+→ India 🇮🇳
+
+Currently building:
+    Go Gree Way
+
+I like:
+    interfaces that feel intentional
+    products that solve real problems
+    turning ideas into shipped software
+```
+
+---
+
+## ⚡ What I Do
+
+* 🧩 Build full-stack web applications
+* 📱 Develop cross-platform mobile applications
+* 🎨 Design modern and usable interfaces
+* 🔌 Build APIs and backend systems
+* 🗄️ Work with databases and cloud services
+* 🚀 Turn concepts into production-ready products
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="42" height="42" alt="Dart"/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vraj-raval" alt="vraj-raval" /></a> </p>
+### Frontend
 
-<p align="left"> <a href="https://twitter.com/vrajraval_" target="blank"><img src="https://img.shields.io/twitter/follow/vrajraval_?logo=twitter&style=for-the-badge" alt="vrajraval_" /></a> </p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" height="42" alt="Redux"/>
+</p>
 
-- 🔭 I’m currently working on **Go Gree Way**
+### Backend & Database
 
-- 👨‍💻 All of my projects are available at [https://vrajraval.site/](https://vrajraval.site/)
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="42" height="42" alt="SQL Server"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
+</p>
 
-- 📫 How to reach me **ravalvraj3000@gmail.com**
+### Mobile, Cloud & Tools
 
-- 📄 Check My Resume [https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing](https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing)
+<p>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="42" height="42" alt="Flutter"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="42" height="42" alt="Android"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma"/>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚧 Currently Building
+
+### Go Gree Way
+
+Working on **Go Gree Way** — currently my main project.
+
+> Building, experimenting, breaking things, fixing them, and shipping.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vraj-raval&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vraj-raval&layout=compact&hide_border=true&langs_count=8" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vraj-raval&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌐 Find Me
+
 <p align="left">
-<a href="https://twitter.com/vrajraval_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrajraval_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vraj raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj raval" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21225069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21225069" height="30" width="40" /></a>
-<a href="https://instagram.com/vrajrvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrajrvl" height="30" width="40" /></a>
+
+<a href="https://vrajraval.site">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/vrajraval">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/vrajraval_">
+<img src="https://img.shields.io/badge/X%20%2F%20Twitter-111111?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/vrajrvl">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/21225069">
+<img src="https://img.shields.io/badge/Stack%20Overflow-111111?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj-raval&show_icons=true&locale=en&layout=compact" alt="vraj-raval" /></p>
+## 📄 Resume
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj-raval&show_icons=true&locale=en" alt="vraj-raval" /></p>
+**[View My Resume](https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vraj-raval&" alt="vraj-raval" /></p>
+---
 
+<div align="center">
+
+### *Build things. Break things. Learn. Repeat.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vraj-raval&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
